@@ -1,0 +1,6 @@
+[package]
+name = "blog2"
+version = "0.1.0"
+authors = ["Matias Klemola <matias.klemola@gmail.com>"]
+
+[dependencies]
